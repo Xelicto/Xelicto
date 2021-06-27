@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm jnsp</h1>
 <h3 align="center">Racing Driver | Coding in my free-time</h3>
 
-<h5 align="center"[![Discord Bots](https://top.gg/api/widget/827715387687829544.svg)](https://top.gg/bot/827715387687829544)</h5>
-
 - 🔭 I’m currently working on **zapbot**
 
 - 📝 I regularly write articles on [https://tellonym.me/911.jnsp](https://tellonym.me/911.jnsp)
