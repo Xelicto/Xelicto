@@ -24,5 +24,5 @@
 ![Discord Banner](https://discord.c99.nl/widget/theme-4/432248014443380737.png)
 
 #### Currently Listening
-![Spotify](https://novatorem-peach-ten.vercel.app/api/spotify)](https://open.spotify.com/user/am0g3o7csu1k3u03cfx1tmto6)
+[![Spotify](https://novatorem-peach-ten.vercel.app/api/spotify)](https://open.spotify.com/user/am0g3o7csu1k3u03cfx1tmto6)
 
