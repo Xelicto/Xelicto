@@ -11,4 +11,7 @@
   <br>
   <br>
   <!-- <a href="https://open.spotify.com/user/am0g3o7csu1k3u03cfx1tmto6"><img src="https://novatorem-peach-ten.vercel.app/api/spotify"></a> -->
+  <a href="https://discord.gg/r2KwDD22Hj">
+    <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="bkr lounge" width="150"/>
+   </a>
 </p>
