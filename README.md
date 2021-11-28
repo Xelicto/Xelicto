@@ -15,5 +15,3 @@
     <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="bkr lounge" width="150"/>
    </a>
 </p>
-
-<-- "Hello world" -->
