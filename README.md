@@ -8,5 +8,5 @@
   <br>
   <br>
   <br>
-  <a href="https://discord.gg/cyUQkuFAVu"><img src="https://discord.c99.nl/widget/theme-4/1040377359121010718.png">
+  <a href="https://discord.gg/cyUQkuFAVu"><img align="center" src="https://discord.c99.nl/widget/theme-4/1040377359121010718.png">
 </p>
