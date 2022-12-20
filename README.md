@@ -4,11 +4,11 @@
 
 
   <!-- <a href="https://open.spotify.com/user/am0g3o7csu1k3u03cfx1tmto6"><img src="https://novatorem-peach-ten.vercel.app/api/spotify"></a> -->
- <align="center"><a href="https://discord.gg/cyUQkuFAVu">
+<a href="https://discord.gg/cyUQkuFAVu">
 <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="nvm" width="150"/>
    </a> 
   <br>
   <br>
   <br>
-  <align="center"><a href="#"><img src="https://discord.c99.nl/widget/theme-4/1040377359121010718.png"></a>
+  <a href="#"><align="center"<img src="https://discord.c99.nl/widget/theme-4/1040377359121010718.png"></a>
 </p>
