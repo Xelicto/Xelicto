@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm jnsp</h1>
-<h5 align="left">Racing Driver | Backend knowledge</h3>
-<h5 align="left">Sorry there isn't a lot to see here, most of my work is closed source.</h4>
+<h1 align="center">Hi 👋, I'm Xelicto</h1>
+<h5 align="left">retard | python and js </h3>
+<h5 align="left">There sometimes isn't alot, most of my work is closed source.</h4>
 
 
 <p align="left">
@@ -13,5 +13,5 @@
   <br>
   <br>
   <br>
-  <a href="#"><img src="https://discord.c99.nl/widget/theme-4/432248014443380737.png"></a>
+  <a href="#"><img src="https://discord.c99.nl/widget/theme-3/1040377359121010718.png"></a>
 </p>
