@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xelicto</h1>
-<h5 align="left">retard | python and js </h3>
-<h5 align="left">There sometimes isn't alot, most of my work is closed source.</h4>
+<h5 align="center">retard | python and js </h3>
+<h5 align="center">There sometimes isn't alot, most of my work is closed source.</h4>
 
 
 <p align="left">
@@ -13,5 +13,5 @@
   <br>
   <br>
   <br>
-  <a href="#"><img src="https://discord.c99.nl/widget/theme-3/1040377359121010718.png"></a>
+  <a href="#"><img src="https://discord.c99.nl/widget/theme-4/1040377359121010718.png"></a>
 </p>
