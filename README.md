@@ -10,5 +10,5 @@
   <br>
   <br>
   <br>
-  <a href="#"><img src="https://discord.c99.nl/widget/theme-4/1040377359121010718.png">
+  <a href="#"><img src="https://discord.c99.nl/widget/theme-4/1040377359121010718.png"><align="center">
 </p>
