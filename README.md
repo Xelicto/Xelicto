@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xelicto</h1>
-<h5 align="center">beamer, malware | python and js </h3>
+<h5 align="center">beamer anaylast, malware | python and js </h3>
 <h5 align="center">There sometimes isn't alot, most of my work is closed source.</h4>
 
 
